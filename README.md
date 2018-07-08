@@ -1,3 +1,4 @@
-# peach_notes.github.io
+# peach_notes
+勉強用ノート
 # liceces
 [Licences](LICENSE)
